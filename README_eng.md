@@ -1,4 +1,4 @@
-# 修改后的项目README
+# README
 
 A machine learning project that predicts mutual romantic matches using the Columbia University Speed Dating Dataset\.
 
