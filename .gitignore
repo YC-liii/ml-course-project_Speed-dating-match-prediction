@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project: regenerated outputs (everything below can be reproduced
+# by running the pipeline)
+data_outputs/*.npy
+data_outputs/*.png
+data_outputs/*.txt
+data_outputs/*.csv
+data_outputs/*.json
+model_outputs/*.npz
+final_figures/*.png
+
+# But keep raw data + EDA figure under version control
+!data_outputs/raw_match_distribution.png
