@@ -421,7 +421,7 @@ MPLBACKEND=Agg python3 lr.py
 
 - 数据集：Columbia Speed Dating Experiment (Fisman et al., 2006)
 - 课程：AI3013 机器学习
-- 团队成员：[在此填写团队成员]
+- 团队成员：Feixuan Wang, Linchen Wang, Yucheng Li, Yingyao Li
 
 ---
 
